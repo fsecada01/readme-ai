@@ -48,3 +48,6 @@ logs/
 .actrc
 .github/workflows/update-badges-local.yml
 .github/workflows/update-badges.yml
+
+# Pycharm
+.idea
